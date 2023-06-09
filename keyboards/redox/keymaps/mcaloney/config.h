@@ -25,6 +25,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define EE_HANDS
 #define SPLIT_USB_DETECT
 
+#define BOTH_SHIFTS_TURNS_ON_CAPS_WORD
+
 #undef RGBLED_NUM
 #define RGBLIGHT_SLEEP
 #define RGBLIGHT_EFFECT_BREATHING
